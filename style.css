@@ -1,0 +1,27 @@
+.header, .footer {
+    background-color: #1F2937;
+}
+
+.header {
+    font-size: 48px;
+    font-weight: 800;
+    color: #F9FAF8;
+}
+
+.secondary-link-text {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.call-to-action {
+    background-color: #3882F6;
+}
+
+button {
+    color: white;
+    background-color: #3882F6;
+}
+
+h3 {
+    
+}
