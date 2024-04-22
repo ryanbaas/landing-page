@@ -12,10 +12,8 @@ An Odin Project foundations project
 
 Questions:
 
-How do I get the image in Section 1 to be on the right side of the page while keeping the other text and button on the left side, in vertical order?
+How do I take off the border and radius on just one of my img's? Essentially, how do I separate styling between my img's?
 
-How do I get a blue border to show up around my images if I want that?
+Things to do:
 
-How do I get rounded edges on my buttons and call to action section?
-
-How do I get a white border around my call to action button?
+Make "Thor" more bold than the rest of the quote text, and make the quote text less bold.

@@ -7,7 +7,7 @@ body {
     background: #1F2937;
     display: flex;
     justify-content: space-between;
-    padding: 8px;
+    padding: 24px 140px 24px 140px;
     margin-bottom: 0;
 }
 
@@ -39,11 +39,17 @@ ul {
 .header-continued {
     background: #1F2937;
     display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    align-items: flex-start;
-    padding: 16px;
-    gap: 8px;
+    padding: 60px 120px 60px 120px;
+    gap: 185px;
+}
+
+.text-container {
+    flex: 1;
+    padding: 20px;
+}
+
+.image-container {
+    flex: 1;
 }
 
 .text-content {
@@ -60,7 +66,8 @@ ul {
 
 img {
     max-width: 100%;
-    border: 2px solid #3882F6;
+    border: 3px solid #3882F6;
+    border-radius: 5px;
 }
 
 .button {
@@ -69,6 +76,8 @@ img {
     height: 36px;
     width: 72px;
     border: none;
+    border-radius: 5px;
+    margin-top: 10px;
 }
 
 .title {
@@ -102,11 +111,19 @@ img {
 .call-to-action {
     background: #3882F6;
     display: flex;
-    flex-direction: column;
+    margin: 50px 150px 50px 150px;
+    padding: 24px 56px 24px 56px;
+    border-radius: 5px;
 }
 
-.call, .sign-up {
+.text-container-two {
     color: #F9FAF8;
+    flex: 1;
+}
+
+.call {
+    font-size: 20px;
+    font-weight: 800;
 }
 
 .button-two {
@@ -115,4 +132,13 @@ img {
     height: 36px;
     width: 72px;
     border: 1px solid white;
+    flex: 1;
+    border-radius: 5px;
+}
+
+.footer {
+    background-color: #1F2937;
+    color: #F9FAF8;
+    text-align: center;
+    padding: 20px;
 }
