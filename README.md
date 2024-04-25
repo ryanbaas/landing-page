@@ -10,10 +10,7 @@ An Odin Project foundations project
 #Section 2, image 3 created by beyzahzah.
 #Section 2, image 4 created by beyzahzah.
 
-Questions:
-
-How do I take off the border and radius on just one of my img's? Essentially, how do I separate styling between my img's?
 
 Things to do:
 
-Make "Thor" more bold than the rest of the quote text, and make the quote text less bold.
+Upload to Github
